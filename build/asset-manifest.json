@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/bleater/static/css/main.30c17aa7.chunk.css",
+    "main.js": "/bleater/static/js/main.ffa1ef81.chunk.js",
+    "main.js.map": "/bleater/static/js/main.ffa1ef81.chunk.js.map",
+    "runtime-main.js": "/bleater/static/js/runtime-main.c1663a44.js",
+    "runtime-main.js.map": "/bleater/static/js/runtime-main.c1663a44.js.map",
+    "static/js/2.b769527b.chunk.js": "/bleater/static/js/2.b769527b.chunk.js",
+    "static/js/2.b769527b.chunk.js.map": "/bleater/static/js/2.b769527b.chunk.js.map",
+    "static/js/3.872edec1.chunk.js": "/bleater/static/js/3.872edec1.chunk.js",
+    "static/js/3.872edec1.chunk.js.map": "/bleater/static/js/3.872edec1.chunk.js.map",
+    "index.html": "/bleater/index.html",
+    "static/css/main.30c17aa7.chunk.css.map": "/bleater/static/css/main.30c17aa7.chunk.css.map",
+    "static/js/2.b769527b.chunk.js.LICENSE.txt": "/bleater/static/js/2.b769527b.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/bleater/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c1663a44.js",
+    "static/js/2.b769527b.chunk.js",
+    "static/css/main.30c17aa7.chunk.css",
+    "static/js/main.ffa1ef81.chunk.js"
+  ]
+}
